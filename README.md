@@ -1,4 +1,4 @@
-# Bean Counter™ (Augustinas's Mini Project)
+# Bean Counter™
 Good old-fashioned cafe data management software with a rustic appeal.
 
 Manage orders, products, and couriers effortlessly with this application.
